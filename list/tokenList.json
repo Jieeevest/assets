@@ -359,7 +359,7 @@
       },
       {
         "name": "Litedex USDC",
-        "address": "",
+        "address": "0x19986557af4eBAbBda8BF7313cccEE678c0bA360",
         "symbol": "LUSDC",
         "decimals": 18,
         "chainId": 4,
