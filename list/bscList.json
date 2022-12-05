@@ -1,21 +1,20 @@
 {
-    "name": "Celo Token List",
+    "name": "BNB Smart Chain Token List",
+    "author": "IQ24 Web3",
     "version": {
       "major": 1,
       "minor": 1,
-      "patch": 0
+      "patch": 1
     },
-    "logoURI": "https://raw.githubusercontent.com/jesse-sawa/celo-token-list/master/assets/celo_logo.svg",
     "keywords": [
       "bsc",
       "tokens"
     ],
-    "timestamp": "2022-05-25T20:37:00.000+00:00",
     "tokens": [
       {
         "name": "Cardano Token",
         "symbol": "ADA",
-        "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
+        "address": "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47",
         "chainId": 56,
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ada.jpg"
@@ -23,7 +22,7 @@
       {
         "name": "AlphaToken",
         "symbol": "ALPHA",
-        "address": "0xa1faa113cbE53436Df28FF0aEe54275c13B40975",
+        "address": "0xa1faa113cbe53436df28ff0aee54275c13b40975",
         "chainId": 56,
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/alpha.jpg"
@@ -31,7 +30,7 @@
       {
         "name": "Ankr",
         "symbol": "ANKR",
-        "address": "0xf307910A4c7bbc79691fD374889b36d8531B08e3",
+        "address": "0xf307910a4c7bbc79691fd374889b36d8531b08e3",
         "chainId": 56,
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ankr.jpg"
@@ -151,7 +150,7 @@
       {
         "name": "BUSD Token",
         "symbol": "BUSD",
-        "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+        "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
         "chainId": 56,
         "decimals": 18,
         "logoURI": "https://bscscan.com/token/images/busd_32.png"
@@ -199,7 +198,7 @@
       {
         "name": "Dai Token",
         "symbol": "DAI",
-        "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+        "address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
         "chainId": 56,
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/binance/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3.jpg"
@@ -631,7 +630,7 @@
       {
         "name": "Tether USD",
         "symbol": "USDT",
-        "address": "0x55d398326f99059fF775485246999027B3197955",
+        "address": "0x55d398326f99059ff775485246999027b3197955",
         "chainId": 56,
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/binance/0x55d398326f99059fF775485246999027B3197955.jpg"
@@ -663,7 +662,7 @@
       {
         "name": "WBNB Token",
         "symbol": "WBNB",
-        "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+        "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
         "chainId": 56,
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/bnb.jpg"
